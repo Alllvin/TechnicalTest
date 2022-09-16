@@ -1,0 +1,2 @@
+D:\AlvinYahya_Test\Movie\MovieApi\MovieApi\obj\Debug\MovieApi.esproj.SuggestedBindingRedirects.cache
+D:\AlvinYahya_Test\Movie\MovieApi\MovieApi\obj\Debug\MovieApi.esproj.CoreCompileInputs.cache

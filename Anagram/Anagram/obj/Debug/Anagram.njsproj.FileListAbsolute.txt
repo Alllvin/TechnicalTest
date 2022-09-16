@@ -1,0 +1,3 @@
+D:\AlvinYahya_Test\Anagram\Anagram\obj\Debug\Anagram.njsproj.AssemblyReference.cache
+D:\AlvinYahya_Test\Anagram\Anagram\obj\Debug\Anagram.njsproj.CoreCompileInputs.cache
+D:\AlvinYahya_Test\Anagram\Anagram\bin\Microsoft.NodejsTools.WebRole.dll

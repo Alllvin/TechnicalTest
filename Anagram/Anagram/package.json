@@ -1,0 +1,9 @@
+{
+  "name": "anagram",
+  "version": "0.0.0",
+  "description": "Anagram",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
